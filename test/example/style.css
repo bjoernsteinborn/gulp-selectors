@@ -1,4 +1,8 @@
-.blue {
+.o-grid__item--3\/4\@sm\+ {
+	color: blue;
+}
+
+.o-grid__item--3\/4\@sm\+::before {
 	color: blue;
 }
 
